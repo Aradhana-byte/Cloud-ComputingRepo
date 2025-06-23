@@ -10,8 +10,8 @@ trigger:
 - main
 
 pool:
-<<<<<<< HEAD
-  vmImage: 'ubuntu-latest'
+
+  name:Default
 
 steps:
 - task: UseDotNet@2
